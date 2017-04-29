@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1020406452921",
+    "firebase_url": "https://mymap-d908d.firebaseio.com",
+    "project_id": "mymap-d908d",
+    "storage_bucket": "mymap-d908d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020406452921:android:90263fe434efd8ed",
+        "android_client_info": {
+          "package_name": "com.example.tommylin.mymap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020406452921-8npnckgkrvg0auj9ss049f97fmkg6ofc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr-6zRdSYZd5jOhrYmjao4sDuQZZAHgTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020406452921-8npnckgkrvg0auj9ss049f97fmkg6ofc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
